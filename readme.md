@@ -45,3 +45,6 @@ nvvp ./fast_shared -d [YOUR_IMAGE_DIR]
 e.g.
 nvvp./fast_shared -d ../assets/
 ```
+
+## Details
+https://tianyma.github.io/2020/11/26/pdf-cufast.html
