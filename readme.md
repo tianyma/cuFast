@@ -47,4 +47,4 @@ nvvp./fast_shared -d ../assets/
 ```
 
 ## Details
-https://tianyma.github.io/2020/11/26/pdf-cufast.html
+https://tianyma.github.io/2020/12/19/pdf-cufast.html
