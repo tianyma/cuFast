@@ -6,7 +6,7 @@ cuda-10.2
 GPU compute ability 61(GeForce MX250)
 
 `
-!modify Makefile adapting to your environment!
+!modify Makefile to adapt to your environment!
 `
 ## Dirs
 
